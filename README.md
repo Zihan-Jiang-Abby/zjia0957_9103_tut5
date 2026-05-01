@@ -32,12 +32,14 @@ Text inbetween
 
 ![An iamge of a cat](https://placecats.com/200/300)
 
+![An image of the Mona Lisa](readmeImages/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
+
 Make sure to run `setup()` first
 
-、、、
-
-function hello world(){
-    
+```
+function helloWorld() {
+console.log("Hello, world!");
 }
+```
 
 
