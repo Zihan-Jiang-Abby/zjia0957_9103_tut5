@@ -7,12 +7,13 @@
 ##### Header 5
 ###### Header 6
 
-
 **Bold Text** or __Bold Text__
-*Italic Text*
+*Italic Text* or _Italic Text_
 
--Item 1
--Item 2
+- Item 1
+- Item 2
+  - Subitem 2.1
+  - Subitem 2.2
 
 *Subiten 2.2
 
@@ -29,5 +30,14 @@ Text inbetween
 
 [Google Homepage](https://www.google.com/)
 
-![An iamge of a cat]()
+![An iamge of a cat](https://placecats.com/200/300)
+
+Make sure to run `setup()` first
+
+、、、
+
+function hello world(){
+    
+}
+
 
