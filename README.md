@@ -6,8 +6,8 @@
 
 > Key Observation: Beeple uses atmospheric rendering to contrust immersive digital environments that evoke futuristic and cinematic moods.
 ### Inspiration Images
-![Beeple's Image 1](https://www.artstation.com/artwork/PmDAAB.jpg)
-![Beeple's Image 2](https://www.artstation.com/artwork/lqB3k.jpg)
+![Beeple's Image 1](Image1.jpg)
+![Beeple's Image 2](Image2.jpg)
 
 ## Part2: Coding Technique Exploration
 
