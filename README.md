@@ -1,45 +1,16 @@
-# zjia0957_9103_tut5
+# Quiz 8 - Imaging and Coding Technique Exploration
 
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
-##### Header 5
-###### Header 6
+## Part1: Imaging Technique Inspiration
 
-**Bold Text** or __Bold Text__
-*Italic Text* or _Italic Text_
+### Atmospheric Rendering in Beeple's Digital Art
 
-- Item 1
-- Item 2
-  - Subitem 2.1
-  - Subitem 2.2
+> Key Observation: Beeple uses atmospheric rendering to contrust immersive digital environments that evoke futuristic and cinematic moods.
+### Inspiration Images
+![Beeple's Image 1](https://www.artstation.com/artwork/PmDAAB)
+![Beeple's Image 2](https://www.artstation.com/artwork/lqB3k)
 
-*Subiten 2.2
+## Part2: Coding Technique Exploration
 
-1. First Item
-2. Second Item
-3. Third Item
-
-Text inbetween
-
-1. First Item
-1. Second Item
-1. Second Second Item
-1. Third Item
-
-[Google Homepage](https://www.google.com/)
-
-![An iamge of a cat](https://placecats.com/200/300)
-
-![An image of the Mona Lisa](readmeImages/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
-
-Make sure to run `setup()` first
-
-```
-function helloWorld() {
-console.log("Hello, world!");
-}
-```
-
-
+### Example Image
+### Example Code
+[p5.js blendMode() Reference](https://p5js.org/reference/p5/blendMode/)
