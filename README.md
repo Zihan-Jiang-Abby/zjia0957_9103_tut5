@@ -15,6 +15,8 @@ One of my greatest sources of inspiration is the globally acclaimed digital arti
 `p5.js blendMode()` is a coding technique that controls how overlapping colours interact with each other. By enabling blendMode(), it is possible to simulate atmospheric visual effects, such as glow, layered lighting, haze, and colour gradients - similar to the cinematic rendering style seen in Beeple's artworks. Combined with transparent layers and colour gradients, this technique can transform simple digital scenes into more immersive environments with greater depth and emotional atmosphere, making it a valuable tool for achieving the visual storytelling aesthetic. In my final project, I envision applying it to background elements and light sources to enhance the overall sense of space and atmosphere.
 
 ### Example Image
+![Example1](blendMode1.jpg)
+![Example2](blandMode2.jpg)
 
 ### Example Code
 [p5.js blendMode() Reference](https://p5js.org/reference/p5/blendMode/)
