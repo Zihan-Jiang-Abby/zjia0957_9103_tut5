@@ -7,16 +7,16 @@ One of my greatest sources of inspiration is the globally acclaimed digital arti
 > **Key Observation:** Beeple uses atmospheric rendering to contruct immersive digital environments that evoke futuristic and cinematic moods.
 
 ### Inspiration Images
-![Beeple's Image 1](Everyday[10.22.19].jpg)
-![Beeple's Image 2](Everyday[10.25.17].jpg)
+![Beeple's Image 1](images/Everyday[10.22.19].jpg)
+![Beeple's Image 2](images/Everyday[10.25.17].jpg)
 
 ## Part2: Coding Technique Exploration
 ### p5.js blendMode() - Simulating Atmospheric Effects
 `p5.js blendMode()` is a coding technique that controls how overlapping colours interact with each other. By enabling blendMode(), it is possible to simulate atmospheric visual effects, such as glow, layered lighting, haze, and colour gradients - similar to the cinematic rendering style seen in Beeple's artworks. Combined with transparent layers and colour gradients, this technique can transform simple digital scenes into more immersive environments with greater depth and emotional atmosphere, making it a valuable tool for achieving the visual storytelling aesthetic. In my final project, I envision applying it to background elements and light sources to enhance the overall sense of space and atmosphere.
 
 ### Example Image
-![Example1](blendMode1.jpg)
-![Example2](blandMode2.jpg)
+![Example1](images/blendMode1.jpg)
+![Example2](images/blandMode2.jpg)
 
 ### Example Code
 [p5.js blendMode() Reference](https://p5js.org/reference/p5/blendMode/)
