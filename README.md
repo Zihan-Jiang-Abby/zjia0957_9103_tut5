@@ -7,8 +7,8 @@ One of my greatest sources of inspiration is the globally acclaimed digital arti
 > **Key Observation:** Beeple uses atmospheric rendering to contruct immersive digital environments that evoke futuristic and cinematic moods.
 
 ### Inspiration Images
-![Beeple's Image 1](images/Everyday[10.22.19].jpg)
-![Beeple's Image 2](images/Everyday[10.25.17].jpg)
+![Beeple's Image 1](images/Everyday_10.22.19.jpg)
+![Beeple's Image 2](images/Everyday_10.25.17.jpg)
 
 ## Part2: Coding Technique Exploration
 ### p5.js blendMode() - Simulating Atmospheric Effects
