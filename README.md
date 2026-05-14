@@ -1,4 +1,4 @@
-# Quiz 8 - Imaging and Coding Technique Exploration
+# Quiz 8 - Imaging and Coding Technique Exploration in class
 
 ## Part1: Imaging Technique Inspiration
 
