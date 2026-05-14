@@ -24,6 +24,7 @@ The audio mechanic uses P5.js's FFt (Fast Fourier Transform) analysis to read th
 #### References
 
 ### Perlin noise and randomness: Zihan Jiang
+We employ Perlin Noise to animate the fluid, organic motion of the rainbow auras, recontextualizing them as "digital mirages." In contrast to the rhythmic audio pulse, this noise generates a continuous, multi-dimensional distortion that mimics the chaotic information flux of the digital era. As intensity scales, the noise causes the rainbow’s edges to fray, visualizing the tension between seductive connectivity and the inherent instability of the virtual medium. Complementing this, Randomness triggers stochastic "glitch" events—abrupt disruptions where vibrant colors dissolve into static. These mechanics symbolize the "popping" of illusory bubbles, reminding users that true spiritual belonging must be sought persistently beneath these randomized, flickering digital distractions.
 #### References
 
 ### User input: Ruiqi Xu
