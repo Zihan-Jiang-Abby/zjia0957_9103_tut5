@@ -24,8 +24,16 @@ The audio mechanic uses P5.js's FFt (Fast Fourier Transform) analysis to read th
 #### References
 
 ### User input: Ruiqi Xu
+
+When moving the mouse in the sky area, particle avoidance occurs. Clicking the mouse generates small stars with halos. When moving the mouse on the ground, ripples are generated. Left clicking triggers ripples. This dual interaction mode deepens the theme of "the pursuit of a sense of belonging in the digital interconnected world". The stars in the sky represent unattainable goals or dreams. Although users can create them, they cannot truly "touch" them (avoidance mechanism), symbolizing the sense of alienation in digital connections. The ripples on the ground represent the footprints and influences left by users on the digital wilderness, and this instant feedback gives users a sense of existence and belonging, closely connecting 'me' with this digital landscape.
+
+
 #### References
 
+- https://p5js.org/reference/p5/mouseIsPressed/ - p5.js mouseIsPressed
+- https://natureofcode.com/autonomous-agents/ - Autonomous Agents
+- Original artwork: *The Search for Belonging in a Digitally Connected World* by Arthur Machado (Tu.uk'z)
+  
 ------
 ## Part3: Collaboration
 #### Explaination
