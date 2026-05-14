@@ -7,6 +7,7 @@ Our team has chosen to reinterpret an existing artwork.
 Our project, explores the persistent search for spiritual belonging amidst the rapid expansion of AI and digital connectivily. Inspired by the artist tuukzs's occultist aesthetics, we recontextualize their radiant rainbow auras as the "digital mirages" of our era ----- vibrant, AI-accelerated illusions of properity and happiness that are as fleeting as bubbles.
 While the original artists foucuese on individul spirituality, our vision highlights the growing inner emptiness hidden behind hyper-connectivity. The solitary house symbolizes not a physical home, but the persistent core of the human-spirit - a sanctuary of authetic selfhood. We aim to vosualize the tension between being seduced by surface-level digital beauty and the necessity of diving deeper. Our project serves as a reminder: despite the overwhelming flux of ephemeral digital "perfection", we must not abandon the profound, often difficuly pursuit of true spiritual belonging within the network.
 #### References
+![Artwork Reference](.png)
 
 —------
 ## Part2: Mechanics
