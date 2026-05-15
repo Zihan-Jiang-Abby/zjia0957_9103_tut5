@@ -1,17 +1,20 @@
 # Quiz 9 - The Search for Belonging in a Digitally Connected World
 
-## Part 1: Project Direction
+
+
+## Part 1 - Project Direction
 ### Project Path
 Our team has chosen to reinterpret an existing artwork.
-### Vision and the Inspiration
+### Vision & Inspiration
 Our project, explores the persistent search for spiritual belonging amidst the rapid expansion of AI and digital connectivity. Inspired by the artist Tù.úk'z's occultist aesthetics, we recontextualize their radiant rainbow auras as the "digital mirages" of our era ----- vibrant, AI-accelerated illusions of prosperity and happiness that are as fleeting as bubbles.
 While the original artists focuses on individual spirituality, our vision highlights the growing inner emptiness hidden behind hyper-connectivity. The solitary house symbolizes not a physical home, but the persistent core of the human-spirit - a sanctuary of authentic selfhood. We aim to visualise the tension between being seduced by surface-level digital beauty and the necessity of diving deeper. Our project serves as a reminder: despite the overwhelming flux of ephemeral digital "perfection", we must not abandon the profound, often difficult pursuit of true spiritual belonging within the network.
-### References
+#### References
 ![Original Artwork](images/artwork.png)
 [View the original artist page here](https://www.instagram.com/p/DRVKsYiCVXg/)
 
 
-## Part 2: Mechanics
+
+## Part 2 - Mechanics
 
 ### Audio
 > Yixin Liu
@@ -61,6 +64,6 @@ When moving the mouse in the sky area, particle avoidance occurs. Clicking the m
 - Original artwork: *The Search for Belonging in a Digitally Connected World* by Arthur Machado (Tu.uk'z)
   
 
-## Part 3: Collaboration & Integration
-#### Explanation
+
+## Part 3 - Collaboration & Integration
 All four mechanics work together to build one shared digital environment. The audio mechanic changes the mood of the rainbow and sky through music, while the time-based mechanic slowly lights the pathway and the house to show how belonging develops over time. Perlin Noise and Randomness constantly affect the sky, sea, ground, and even the stars created by users, making the environment feel unstable and alive. However, the house always stays warm and stable, representing a real sense of belonging within the digital world. All the mechanics use the same visual style, colours, and atmosphere, allowing the project to feel like one connected interactive world.
