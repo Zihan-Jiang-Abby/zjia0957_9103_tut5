@@ -63,7 +63,7 @@ When moving the mouse in the sky area, particle avoidance occurs. Clicking the m
 
 ## Part3: Collaboration
 #### Explaination
-All four mechanics work together to create a constantly changing digital world. The audio mechanic allows the rainbow and sky to pulse emotionally with the music, shaping the overall atmosphere of the environment. The time-based mechanic uses the gradually illuminated pathway and softly glowing house to represent how a sense of belonging slowly forms over time. Meanwhile, the Perlin Noise and Randomness mechanics continuously affect the sky, sea, ground, and even the stars and traces left by users, keeping the environment in a drifting, distorted, and unstable state that reflects the fragile and uncertain nature of connection in the digital age. However, the house itself remains relatively stable and warm, becoming the symbolic centre of genuine belonging within the digital landscape. 
+All four mechanics work together to build one shared digital environment. The audio mechanic changes the mood of the rainbow and sky through music, while the time-based mechanic slowly lights the pathwayand the house to show how belonging develops over time. Perlin Noise and Randomness constantly affect the sky, sea, ground, and even the satrs created by users, making the environment feel unstable and alive. However, the house always stays warm and stable, representing a real sense of belonging within the digital world. All the mechanics use the same visual style, colours, and atmosphere, allowing the project to feel like one connected interactive world.
 
 #### References
 
