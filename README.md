@@ -14,6 +14,7 @@ While the original artists focuses on individual spirituality, our vision highli
 
 
 
+
 ## Part 2 - Mechanics
 
 ### 🎵 Audio
@@ -25,6 +26,7 @@ While the original artists focuses on individual spirituality, our vision highli
 - Original artwork: *The Search for Belonging in a Digitally Connected World* by Arthur Machado (Tu.uk'z)
 
 
+
 ### ⏳ Time-based
 - **Team Member:** Wanni Xiang
 - **Description:** My time-based mechanic will show how belonging slowly builds over time. The pink path will gradually light up in small sections, guiding the viewer toward the house. This represents the user slowly moving through a digital space and finding moments of connection step by step. The house window will also softly pulse over time, making it feel warm and welcoming. This connects to our theme because finding belonging online is not immediate. It develops through repeated interactions, such as messages, replies, and shared experiences, until the space starts to feel more familiar and safe.
@@ -32,6 +34,7 @@ While the original artists focuses on individual spirituality, our vision highli
 - [p5.js frameCount Reference](https://p5js.org/reference/p5/frameCount/) — Official p5.js documentation
 - [p5.js sin() Reference](https://p5js.org/reference/p5/sin/) — Official p5.js documentation
 - Original artwork: *The Search for Belonging in a Digitally Connected World* by Arthur Machado (Tu.uk'z)
+
 
 
 ### 🌊 Perlin Noise & Randomness
@@ -48,6 +51,7 @@ While the original artists focuses on individual spirituality, our vision highli
   Used to create smooth visual transitions between shifting environmental states, helping the digital landscapes feel emotionally responsive and immersive.
 
 
+
 ### ⌨️ User Input
 - **Team Member:** Ruiqi Xu
 - **Description:** When moving the mouse in the sky area, particle avoidance occurs. Clicking the mouse generates small stars with halos. When moving the mouse on the ground, ripples are generated. Left clicking triggers ripples. This dual interaction mode deepens the theme of "the pursuit of a sense of belonging in the digital interconnected world". The stars in the sky represent unattainable goals or dreams. Although users can create them, they cannot truly "touch" them (avoidance mechanism), symbolising the sense of alienation in digital connections. The ripples on the ground represent the footprints and influences left by users on the digital wilderness, and this instant feedback gives users a sense of existence and belonging, closely connecting 'me' with this digital landscape.
@@ -56,6 +60,7 @@ While the original artists focuses on individual spirituality, our vision highli
 - [p5.js random() Reference](https://p5js.org/reference/p5/mouseIsPressed/) 
 - Original artwork: *The Search for Belonging in a Digitally Connected World* by Arthur Machado (Tu.uk'z)
   
+
 
 
 ## Part 3 - Collaboration & Integration
