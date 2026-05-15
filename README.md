@@ -34,11 +34,11 @@ We employ Perlin Noise and Randomness to create the unstable, organic movement o
 - [Refik Anadol Studio](https://dataland.art/blog/qualia)
 - [teamlab Interactive Environment](https://www.teamlab.art/e/living_digital_space/)
 - [p5.js noise() Reference](https://p5js.org/reference/p5/noise/)
-  Used to create fluid and organic environment movement, simulating the unstable emotional atmosphere of digitally connected spaces.
+Used to create fluid and organic environment movement, simulating the unstable emotional atmosphere of digitally connected spaces.
 - [p5.js random() Reference](https://p5js.org/reference/p5/random/)
-  Used to generate unpredictable glitch events and fragmented visual distortions, reinforcing themes of uncertainty and unstable digital belonging.
+Used to generate unpredictable glitch events and fragmented visual distortions, reinforcing themes of uncertainty and unstable digital belonging.
 - [p5.js lerp() Reference](https://p5js.org/reference/p5/lerp/)
-  Used to create smooth visual transitions between shifting environmental states, helping the digital landscapes feel emotionally responsive and immersive.
+Used to create smooth visual transitions between shifting environmental states, helping the digital landscapes feel emotionally responsive and immersive.
 
 
 ### User input: Ruiqi Xu
