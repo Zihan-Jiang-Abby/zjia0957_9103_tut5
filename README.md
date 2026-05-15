@@ -27,12 +27,11 @@ The audio mechanic uses P5.js's FFt (Fast Fourier Transform) analysis to read th
 ### Time-based
 > Wanni Xiang
 
-My time-based mechanic will show how belonging slowly builds over time. The pink path will gradually light up in small sections, guiding the viewer toward the house. The house window will softly pulse, making it feel warm and welcoming. I also want to add a slow rotating effect to the rainbow, so it feels like a moving digital connection field rather than a static background. This connects to our theme because finding belonging online is not immediate. It happens step by step through repeated interactions, until the space starts to feel more familiar and safe.
+My time-based mechanic will show how belonging slowly builds over time. The pink path will gradually light up in small sections, guiding the viewer toward the house. This represents the user slowly moving through a digital space and finding moments of connection step by step. The house window will also softly pulse over time, making it feel warm and welcoming. This connects to our theme because finding belonging online is not immediate. It develops through repeated interactions, such as messages, replies, and shared experiences, until the space starts to feel more familiar and safe.
 
 #### References
 - [p5.js frameCount Reference](https://p5js.org/reference/p5/frameCount/) — Official p5.js documentation
 - [p5.js sin() Reference](https://p5js.org/reference/p5/sin/) — Official p5.js documentation
-- [p5.js rotate() Reference](https://p5js.org/reference/p5/rotate/) — Official p5.js documentation
 - Original artwork: *The Search for Belonging in a Digitally Connected World* by Arthur Machado (Tu.uk'z)
 
 
